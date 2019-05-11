@@ -2,8 +2,10 @@
 templateKey: index-page
 title: Customer Experience Report
 image: /img/planet_4-copy.jpg
-heading: Customer Experience
-subheading: Support sustainable farming while enjoying a cup
+heading: Customer Experience Report
+subheading: >-
+  Computation has transformed the speed of business, and the way that various
+  roles now intersect.
 mainpitch:
   title: Why Kaldi
   description: >
