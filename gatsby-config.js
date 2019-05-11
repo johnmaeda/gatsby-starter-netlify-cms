@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'CX Report',
     description:
-      'CX Report by John Maeda',
+      'CX (Customer Experience) Report by John Maeda',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
